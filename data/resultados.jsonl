@@ -130,3 +130,13 @@
 {"pdf": "/system/files/2023-07/IF-300708-2-281108-CIAF_Fuengirola-M%C3%A1laga.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "21:43:03"}
 {"pdf": "/system/files/2023-07/IF-300708-281108-CIAF_Andoa%C3%ADn%2C%20Guip%C3%BAzcoa.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "21:43:03"}
 {"pdf": "/system/files/2023-07/RS-231008-140709-CIAF.pdf", "estado": "ok", "paginas": 2, "tokens": 4790, "s": 9.9, "err": "ok", "ts": "21:43:13"}
+{"pdf": "/system/files/2023-07/RS-241008-140709-CIAF.pdf", "estado": "ok", "paginas": 3, "tokens": 7276, "s": 10.1, "err": "ok", "ts": "21:43:23"}
+{"pdf": "/system/files/2023-07/IF-010109-190509-CIAF.pdf", "estado": "ok", "paginas": 13, "tokens": 32037, "s": 58.7, "err": "ok", "ts": "21:44:22"}
+{"pdf": "/system/files/2023-07/IF-011209-230310-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28752, "s": 51.5, "err": "ok", "ts": "21:45:13"}
+{"pdf": "/system/files/2023-07/IF-020209-221209-CIAF.pdf", "estado": "ok", "paginas": 12, "tokens": 30919, "s": 50.5, "err": "ok", "ts": "21:46:03"}
+{"pdf": "/system/files/2023-07/IF-040309-140709-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28041, "s": 52.6, "err": "ok", "ts": "21:46:56"}
+{"pdf": "/system/files/2023-07/IF-050609-221209-CIAF.pdf", "estado": "ok", "paginas": 12, "tokens": 30551, "s": 60.3, "err": "ok", "ts": "21:47:56"}
+{"pdf": "/system/files/2023-07/IF-060709-221209-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28014, "s": 50.3, "err": "ok", "ts": "21:48:47"}
+{"pdf": "/system/files/2023-07/IF-061209-290610-CIAF.pdf", "estado": "ok", "paginas": 26, "tokens": 68216, "s": 118.8, "err": "ok", "ts": "21:50:45"}
+{"pdf": "/system/files/2023-07/IF-070409-271009-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25484, "s": 38.5, "err": "ok", "ts": "21:51:24"}
+{"pdf": "/system/files/2023-07/IF-080709-260110-CIAF.pdf", "estado": "ok", "paginas": 12, "tokens": 30852, "s": 72.1, "err": "ok", "ts": "21:52:36"}
