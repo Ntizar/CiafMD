@@ -153,7 +153,7 @@ def main():
         estado, pags, tokens, err = 'ok', 0, 0, ''
         try:
             if not os.path.exists(pdf_tmp) or os.path.getsize(pdf_tmp) < 500:
-                if not descargar(BASE + urllib.parse.quote(ruta), pdf_tmp):
+                if not descargar(BASE + urllib.parse.quote(urllib.parse.unquote(ruta)), pdf_tmp):
                     estado = 'sin-pdf'
             if estado == 'ok':
                 texto, pags, tokens, err = convertir_pdf(pdf_tmp, None, nombre, 0)
