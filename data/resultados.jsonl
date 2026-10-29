@@ -120,3 +120,13 @@
 {"pdf": "/system/files/2023-07/IF-240608-281108-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25142, "s": 45.5, "err": "ok", "ts": "21:36:01"}
 {"pdf": "/system/files/2023-07/IF-241008-140709-CIAF.pdf", "estado": "ok", "paginas": 16, "tokens": 41150, "s": 89.5, "err": "ok", "ts": "21:37:30"}
 {"pdf": "/system/files/2023-07/IF-250908-190509-CIAF_Balmaseda%20Mercanc%C3%ADas.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "21:37:31"}
+{"pdf": "/system/files/2023-07/IF-250908-200109-CIAF_Granada-%20Fuente%20de%20Piedra.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "21:37:31"}
+{"pdf": "/system/files/2023-07/IF-261108-310309-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 27772, "s": 60.7, "err": "ok", "ts": "21:38:32"}
+{"pdf": "/system/files/2023-07/IF-270508-300908-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25360, "s": 47.1, "err": "ok", "ts": "21:39:19"}
+{"pdf": "/system/files/2023-07/IF-280908-181208-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22725, "s": 44.6, "err": "ok", "ts": "21:40:03"}
+{"pdf": "/system/files/2023-07/IF-290808-181208-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28063, "s": 56.9, "err": "ok", "ts": "21:41:00"}
+{"pdf": "/system/files/2023-07/IF-291108-310309-CIAF.pdf", "estado": "ok", "paginas": 16, "tokens": 41247, "s": 86.3, "err": "ok", "ts": "21:42:26"}
+{"pdf": "/system/files/2023-07/IF-300608-281008-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22523, "s": 35.9, "err": "ok", "ts": "21:43:02"}
+{"pdf": "/system/files/2023-07/IF-300708-2-281108-CIAF_Fuengirola-M%C3%A1laga.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "21:43:03"}
+{"pdf": "/system/files/2023-07/IF-300708-281108-CIAF_Andoa%C3%ADn%2C%20Guip%C3%BAzcoa.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "21:43:03"}
+{"pdf": "/system/files/2023-07/RS-231008-140709-CIAF.pdf", "estado": "ok", "paginas": 2, "tokens": 4790, "s": 9.9, "err": "ok", "ts": "21:43:13"}
