@@ -50,3 +50,13 @@
 {"pdf": "/system/files/2023-07/ID_250507_140907.pdf", "estado": "ok", "paginas": 6, "tokens": 15591, "s": 31.8, "err": "ok", "ts": "20:43:42"}
 {"pdf": "/system/files/2023-07/ID_270807_300108.pdf", "estado": "ok", "paginas": 6, "tokens": 15505, "s": 24.4, "err": "ok", "ts": "20:44:06"}
 {"pdf": "/system/files/2023-07/ID_300407_190907_Toc%C3%B3n%20-%20Montefr%C3%ADo.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "20:44:06"}
+{"pdf": "/system/files/2023-07/ID-010207-200607-DGF.pdf", "estado": "ok", "paginas": 7, "tokens": 18321, "s": 33.7, "err": "ok", "ts": "20:44:40"}
+{"pdf": "/system/files/2023-07/ID-010307-140907-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15321, "s": 35.2, "err": "ok", "ts": "20:45:15"}
+{"pdf": "/system/files/2023-07/ID-030307-190707-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15745, "s": 28.1, "err": "ok", "ts": "20:45:43"}
+{"pdf": "/system/files/2023-07/ID-050207-200607-DGF.pdf", "estado": "ok", "paginas": 8, "tokens": 20690, "s": 46.9, "err": "ok", "ts": "20:46:30"}
+{"pdf": "/system/files/2023-07/ID-060207-200607-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15387, "s": 43.3, "err": "ok", "ts": "20:47:14"}
+{"pdf": "/system/files/2023-07/ID-060407-190707-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15500, "s": 35.6, "err": "ok", "ts": "20:47:49"}
+{"pdf": "/system/files/2023-07/ID-060507-190707-DGF.pdf", "estado": "ok", "paginas": 7, "tokens": 17829, "s": 54.9, "err": "ok", "ts": "20:48:44"}
+{"pdf": "/system/files/2023-07/ID-070207-200607-DGF.pdf", "estado": "ok", "paginas": 7, "tokens": 18122, "s": 48.1, "err": "ok", "ts": "20:49:32"}
+{"pdf": "/system/files/2023-07/ID-130207-190707-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15721, "s": 34.1, "err": "ok", "ts": "20:50:06"}
+{"pdf": "/system/files/2023-07/ID-170107-200607-DGF.pdf", "estado": "ok", "paginas": 7, "tokens": 18301, "s": 70.3, "err": "ok", "ts": "20:51:17"}
