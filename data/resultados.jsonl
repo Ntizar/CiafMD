@@ -150,3 +150,13 @@
 {"pdf": "/system/files/2023-07/IF-151209-270410-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 26650, "s": 306.5, "err": "ok", "ts": "22:06:38"}
 {"pdf": "/system/files/2023-07/IF-161009-270410-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28618, "s": 62.4, "err": "ok", "ts": "22:07:40"}
 {"pdf": "/system/files/2023-07/IF-161109-310510-CIAF.pdf", "estado": "ok", "paginas": 13, "tokens": 33020, "s": 111.0, "err": "ok", "ts": "22:09:31"}
+{"pdf": "/system/files/2023-07/IF-170409-221209-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 29136, "s": 75.7, "err": "ok", "ts": "22:10:47"}
+{"pdf": "/system/files/2023-07/IF-170909-270410-CIAF.pdf", "estado": "ok", "paginas": 12, "tokens": 31118, "s": 62.5, "err": "ok", "ts": "22:11:49"}
+{"pdf": "/system/files/2023-07/IF-180609-221209-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28799, "s": 55.0, "err": "ok", "ts": "22:12:44"}
+{"pdf": "/system/files/2023-07/IF-200109-2-190509-CIAF_TORDERA%20Y%20BLANES.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "22:12:45"}
+{"pdf": "/system/files/2023-07/IF-200109-190509-CIAF-LA%20FLORIDA.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "22:12:45"}
+{"pdf": "/system/files/2023-07/IF-201209-310510-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28404, "s": 73.8, "err": "ok", "ts": "22:13:59"}
+{"pdf": "/system/files/2023-07/IF-220109-190509-CIAF.pdf", "estado": "ok", "paginas": 13, "tokens": 32198, "s": 74.4, "err": "ok", "ts": "22:15:13"}
+{"pdf": "/system/files/2023-07/IF-220209-140709-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25420, "s": 44.8, "err": "ok", "ts": "22:15:58"}
+{"pdf": "/system/files/2023-07/IF-220609-221209-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 27938, "s": 49.3, "err": "ok", "ts": "22:16:47"}
+{"pdf": "/system/files/2023-07/IF-230209-140709-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 27823, "s": 85.2, "err": "ok", "ts": "22:18:12"}
