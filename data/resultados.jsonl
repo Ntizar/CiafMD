@@ -70,3 +70,13 @@
 {"pdf": "/system/files/2023-07/ID-270207-200607-DGF_El%20Carri%C3%B3n.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "20:53:04"}
 {"pdf": "/system/files/2023-07/ID-280207-190707-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15355, "s": 34.9, "err": "ok", "ts": "20:53:39"}
 {"pdf": "/system/files/2023-07/ID-291207-290408-CIAF%5B1%5D.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.4, "err": "", "ts": "20:53:40"}
+{"pdf": "/system/files/2023-07/ID-300307-140907-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15261, "s": 32.2, "err": "ok", "ts": "20:54:12"}
+{"pdf": "/system/files/2023-07/ID-300407-190707-DGF.pdf", "estado": "ok", "paginas": 7, "tokens": 18143, "s": 41.8, "err": "ok", "ts": "20:54:54"}
+{"pdf": "/system/files/2023-07/ID-050208-240608-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22419, "s": 45.8, "err": "ok", "ts": "20:55:40"}
+{"pdf": "/system/files/2023-07/ID-060108-240608-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 23015, "s": 47.4, "err": "ok", "ts": "20:56:27"}
+{"pdf": "/system/files/2023-07/ID-140308-240608-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25425, "s": 53.3, "err": "ok", "ts": "20:57:20"}
+{"pdf": "/system/files/2023-07/ID-220208-230508-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22903, "s": 41.8, "err": "ok", "ts": "20:58:02"}
+{"pdf": "/system/files/2023-07/ID-260108-240608-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22758, "s": 48.7, "err": "ok", "ts": "20:58:51"}
+{"pdf": "/system/files/2023-07/IF-010908-310309-CIAF.pdf", "estado": "ok", "paginas": 15, "tokens": 37902, "s": 71.8, "err": "ok", "ts": "21:00:03"}
+{"pdf": "/system/files/2023-07/IF-021008-281108-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 23032, "s": 79.9, "err": "ok", "ts": "21:01:23"}
+{"pdf": "/system/files/2023-07/IF-021108-240209-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25408, "s": 59.5, "err": "ok", "ts": "21:02:22"}

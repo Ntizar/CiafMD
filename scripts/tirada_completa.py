@@ -61,7 +61,8 @@ def descargar(url, dest, max_intentos=4):
             if datos[:4] == b'%PDF':
                 open(dest,'wb').write(datos)
                 return True
-            return False  # HTML de bloqueo u otro
+            time.sleep(20)  # bloqueo intermitente de ERA: HTML "web bloqueada" → reintentar
+            continue
         except urllib.error.HTTPError as e:
             if e.code == 429:
                 time.sleep(120*(i+1))
