@@ -110,3 +110,13 @@
 {"pdf": "/system/files/2023-07/IF-201008-240209-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22876, "s": 33.1, "err": "ok", "ts": "21:30:21"}
 {"pdf": "/system/files/2023-07/IF-201208-210409-CIAF.pdf", "estado": "ok", "paginas": 14, "tokens": 34402, "s": 90.7, "err": "ok", "ts": "21:31:52"}
 {"pdf": "/system/files/2023-07/IF-210308-220708-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 26025, "s": 62.3, "err": "ok", "ts": "21:32:54"}
+{"pdf": "/system/files/2023-07/IF-220408-220708-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22744, "s": 36.9, "err": "ok", "ts": "21:33:31"}
+{"pdf": "/system/files/2023-07/IF-220608-240209-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22619, "s": 49.3, "err": "ok", "ts": "21:34:20"}
+{"pdf": "/system/files/2023-07/IF-221108-2-240209-CIAF-%20Alcal%C3%A1%20de%20Henares.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.4, "err": "", "ts": "21:34:21"}
+{"pdf": "/system/files/2023-07/IF-221108-240209-CIAF_Salamanca%20%E2%80%93%20%C3%81vila.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "21:34:21"}
+{"pdf": "/system/files/2023-07/IF-231008-140709-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28561, "s": 53.9, "err": "ok", "ts": "21:35:15"}
+{"pdf": "/system/files/2023-07/IF-240508-2-300908-CIAF_Majarabique%20Estaci%C3%B3n-Huelva%20T%C3%A9rmino.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "21:35:15"}
+{"pdf": "/system/files/2023-07/IF-240508-300908-CIAF_La%20Encina-Alicante.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "21:35:15"}
+{"pdf": "/system/files/2023-07/IF-240608-281108-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25142, "s": 45.5, "err": "ok", "ts": "21:36:01"}
+{"pdf": "/system/files/2023-07/IF-241008-140709-CIAF.pdf", "estado": "ok", "paginas": 16, "tokens": 41150, "s": 89.5, "err": "ok", "ts": "21:37:30"}
+{"pdf": "/system/files/2023-07/IF-250908-190509-CIAF_Balmaseda%20Mercanc%C3%ADas.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "21:37:31"}
