@@ -80,3 +80,13 @@
 {"pdf": "/system/files/2023-07/IF-010908-310309-CIAF.pdf", "estado": "ok", "paginas": 15, "tokens": 37902, "s": 71.8, "err": "ok", "ts": "21:00:03"}
 {"pdf": "/system/files/2023-07/IF-021008-281108-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 23032, "s": 79.9, "err": "ok", "ts": "21:01:23"}
 {"pdf": "/system/files/2023-07/IF-021108-240209-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25408, "s": 59.5, "err": "ok", "ts": "21:02:22"}
+{"pdf": "/system/files/2023-07/IF-030608-2-300908-CIAF_y%20Lora%20del%20R%C3%ADo.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "21:02:22"}
+{"pdf": "/system/files/2023-07/IF-030608-300908-CIAF_Barcelona-Cerbere.pdf", "estado": "ok", "paginas": 10, "tokens": 25448, "s": 50.0, "err": "ok", "ts": "21:03:12"}
+{"pdf": "/system/files/2023-07/IF-031108-240209-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22866, "s": 46.0, "err": "ok", "ts": "21:03:58"}
+{"pdf": "/system/files/2023-07/IF-040708-190509-CIAF.pdf", "estado": "ok", "paginas": 14, "tokens": 36542, "s": 111.6, "err": "ok", "ts": "21:05:50"}
+{"pdf": "/system/files/2023-07/IF-050708-181208-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25586, "s": 44.0, "err": "ok", "ts": "21:06:34"}
+{"pdf": "/system/files/2023-07/IF-060508-181208-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28639, "s": 93.5, "err": "ok", "ts": "21:08:08"}
+{"pdf": "/system/files/2023-07/IF-081108-240209-CIAF.pdf", "estado": "ok", "paginas": 9, "tokens": 22555, "s": 37.5, "err": "ok", "ts": "21:08:45"}
+{"pdf": "/system/files/2023-07/IF-090508-300908-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25683, "s": 55.6, "err": "ok", "ts": "21:09:41"}
+{"pdf": "/system/files/2023-07/IF-091108-240209-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25412, "s": 81.1, "err": "ok", "ts": "21:11:02"}
+{"pdf": "/system/files/2023-07/IF-100108-300908-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28027, "s": 126.1, "err": "ok", "ts": "21:13:08"}
