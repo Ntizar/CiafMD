@@ -220,3 +220,13 @@
 {"pdf": "/system/files/2023-07/IF-010611-310112-CIAF.pdf", "estado": "ok", "paginas": 14, "tokens": 36814, "s": 66.2, "err": "ok", "ts": "23:31:47"}
 {"pdf": "/system/files/2023-07/IF-040111-200911-CIAF.pdf", "estado": "ok", "paginas": 15, "tokens": 39483, "s": 83.0, "err": "ok", "ts": "23:33:10"}
 {"pdf": "/system/files/2023-07/IF-050411-280212-CIAF.pdf", "estado": "ok", "paginas": 17, "tokens": 44519, "s": 87.2, "err": "ok", "ts": "23:34:37"}
+{"pdf": "/system/files/2023-07/IF-051111-290512-CIAF.pdf", "estado": "ok", "paginas": 13, "tokens": 33339, "s": 60.6, "err": "ok", "ts": "23:35:38"}
+{"pdf": "/system/files/2023-07/IF-070311-290512-CIAF.pdf", "estado": "ok", "paginas": 14, "tokens": 37937, "s": 111.5, "err": "ok", "ts": "23:37:29"}
+{"pdf": "/system/files/2023-07/IF-100611-290512-CIAF.pdf", "estado": "ok", "paginas": 14, "tokens": 36653, "s": 96.9, "err": "ok", "ts": "23:39:06"}
+{"pdf": "/system/files/2023-07/IF-110711-270312-CIAF.pdf", "estado": "ok", "paginas": 15, "tokens": 39235, "s": 83.2, "err": "ok", "ts": "23:40:30"}
+{"pdf": "/system/files/2023-07/IF-121011-260612-CIAF.pdf", "estado": "ok", "paginas": 18, "tokens": 46524, "s": 101.2, "err": "ok", "ts": "23:42:11"}
+{"pdf": "/system/files/2023-07/IF-130711-250912-CIAF.pdf", "estado": "ok", "paginas": 17, "tokens": 44176, "s": 89.2, "err": "ok", "ts": "23:43:40"}
+{"pdf": "/system/files/2023-07/IF-151211-260612-CIAF.pdf", "estado": "ok", "paginas": 16, "tokens": 42365, "s": 99.3, "err": "ok", "ts": "23:45:19"}
+{"pdf": "/system/files/2023-07/IF-160111-200911-CIAF.pdf", "estado": "ok", "paginas": 13, "tokens": 33661, "s": 76.8, "err": "ok", "ts": "23:46:36"}
+{"pdf": "/system/files/2023-07/IF-160311-251011-CIAF.pdf", "estado": "ok", "paginas": 12, "tokens": 31448, "s": 76.9, "err": "ok", "ts": "23:47:53"}
+{"pdf": "/system/files/2023-07/IF-160511-280212-CIAF.pdf", "estado": "ok", "paginas": 14, "tokens": 37652, "s": 80.1, "err": "ok", "ts": "23:49:13"}
