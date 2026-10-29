@@ -60,3 +60,13 @@
 {"pdf": "/system/files/2023-07/ID-070207-200607-DGF.pdf", "estado": "ok", "paginas": 7, "tokens": 18122, "s": 48.1, "err": "ok", "ts": "20:49:32"}
 {"pdf": "/system/files/2023-07/ID-130207-190707-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15721, "s": 34.1, "err": "ok", "ts": "20:50:06"}
 {"pdf": "/system/files/2023-07/ID-170107-200607-DGF.pdf", "estado": "ok", "paginas": 7, "tokens": 18301, "s": 70.3, "err": "ok", "ts": "20:51:17"}
+{"pdf": "/system/files/2023-07/ID-180107-200607-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15553, "s": 32.4, "err": "ok", "ts": "20:51:49"}
+{"pdf": "/system/files/2023-07/ID-180307-200607-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15614, "s": 40.7, "err": "ok", "ts": "20:52:30"}
+{"pdf": "/system/files/2023-07/ID-181207-230508-CIAF%5B1%5D.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.4, "err": "", "ts": "20:52:30"}
+{"pdf": "/system/files/2023-07/ID-211207-290408-CIAF%5B1%5D.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "20:52:30"}
+{"pdf": "/system/files/2023-07/ID-230207-200607-DGF.pdf", "estado": "ok", "paginas": 7, "tokens": 18093, "s": 33.6, "err": "ok", "ts": "20:53:04"}
+{"pdf": "/system/files/2023-07/ID-241207-230508-CIAF%5B1%5D.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "20:53:04"}
+{"pdf": "/system/files/2023-07/ID-270207-200607-DGF_14_Sant%20Vicen%C3%A7%20de%20Calders.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "20:53:04"}
+{"pdf": "/system/files/2023-07/ID-270207-200607-DGF_El%20Carri%C3%B3n.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "20:53:04"}
+{"pdf": "/system/files/2023-07/ID-280207-190707-DGF.pdf", "estado": "ok", "paginas": 6, "tokens": 15355, "s": 34.9, "err": "ok", "ts": "20:53:39"}
+{"pdf": "/system/files/2023-07/ID-291207-290408-CIAF%5B1%5D.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.4, "err": "", "ts": "20:53:40"}
