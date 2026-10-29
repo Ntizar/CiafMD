@@ -40,3 +40,13 @@
 {"pdf": "/system/files/2023-07/ID_080707_191007-2_Barcelona-Sagrera_Ma%C3%A7anet-Massanes.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "20:37:02"}
 {"pdf": "/system/files/2023-07/ID_090807_260208.pdf", "estado": "ok", "paginas": 8, "tokens": 20775, "s": 33.6, "err": "ok", "ts": "20:37:36"}
 {"pdf": "/system/files/2023-07/ID_120507_140907.pdf", "estado": "ok", "paginas": 7, "tokens": 17525, "s": 22.7, "err": "ok", "ts": "20:37:58"}
+{"pdf": "/system/files/2023-07/ID_130407_190707.pdf", "estado": "ok", "paginas": 7, "tokens": 17939, "s": 28.8, "err": "ok", "ts": "20:38:27"}
+{"pdf": "/system/files/2023-07/ID_130607_191007.pdf", "estado": "ok", "paginas": 6, "tokens": 15197, "s": 48.7, "err": "ok", "ts": "20:39:16"}
+{"pdf": "/system/files/2023-07/ID_160507_300108.pdf", "estado": "ok", "paginas": 6, "tokens": 15348, "s": 23.3, "err": "ok", "ts": "20:39:39"}
+{"pdf": "/system/files/2023-07/ID_230507_140907.pdf", "estado": "ok", "paginas": 7, "tokens": 17638, "s": 29.0, "err": "ok", "ts": "20:40:08"}
+{"pdf": "/system/files/2023-07/ID_230707_300108.pdf", "estado": "ok", "paginas": 6, "tokens": 15692, "s": 26.5, "err": "ok", "ts": "20:40:35"}
+{"pdf": "/system/files/2023-07/ID_240607_300108.pdf", "estado": "ok", "paginas": 6, "tokens": 15252, "s": 27.3, "err": "ok", "ts": "20:41:02"}
+{"pdf": "/system/files/2023-07/ID_250407_171207.pdf", "estado": "ok", "paginas": 23, "tokens": 60496, "s": 128.0, "err": "ok", "ts": "20:43:10"}
+{"pdf": "/system/files/2023-07/ID_250507_140907.pdf", "estado": "ok", "paginas": 6, "tokens": 15591, "s": 31.8, "err": "ok", "ts": "20:43:42"}
+{"pdf": "/system/files/2023-07/ID_270807_300108.pdf", "estado": "ok", "paginas": 6, "tokens": 15505, "s": 24.4, "err": "ok", "ts": "20:44:06"}
+{"pdf": "/system/files/2023-07/ID_300407_190907_Toc%C3%B3n%20-%20Montefr%C3%ADo.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "20:44:06"}
