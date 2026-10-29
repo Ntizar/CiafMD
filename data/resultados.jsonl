@@ -160,3 +160,13 @@
 {"pdf": "/system/files/2023-07/IF-220209-140709-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25420, "s": 44.8, "err": "ok", "ts": "22:15:58"}
 {"pdf": "/system/files/2023-07/IF-220609-221209-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 27938, "s": 49.3, "err": "ok", "ts": "22:16:47"}
 {"pdf": "/system/files/2023-07/IF-230209-140709-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 27823, "s": 85.2, "err": "ok", "ts": "22:18:12"}
+{"pdf": "/system/files/2023-07/IF-231009-270410-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 26503, "s": 82.2, "err": "ok", "ts": "22:19:35"}
+{"pdf": "/system/files/2023-07/IF-240309-140709-CIAF_ALGEMES%C3%8D.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.4, "err": "", "ts": "22:19:35"}
+{"pdf": "/system/files/2023-07/IF-240309-290909-CIAF_VILLARGORDO%20Y%20GRA%C3%91ENA.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "22:19:35"}
+{"pdf": "/system/files/2023-07/IF-240809-260110-CIAF.pdf", "estado": "ok", "paginas": 11, "tokens": 28841, "s": 65.5, "err": "ok", "ts": "22:20:41"}
+{"pdf": "/system/files/2023-07/IF-240909-310510-CIAF.pdf", "estado": "ok", "paginas": 13, "tokens": 33565, "s": 80.7, "err": "ok", "ts": "22:22:01"}
+{"pdf": "/system/files/2023-07/IF-260609-221209-CIAF_ALUCHE.pdf", "estado": "ok", "paginas": 16, "tokens": 41575, "s": 76.8, "err": "ok", "ts": "22:23:18"}
+{"pdf": "/system/files/2023-07/IF-260609-260110-CIAF_HUMANES.pdf", "estado": "ok", "paginas": 12, "tokens": 30701, "s": 70.5, "err": "ok", "ts": "22:24:29"}
+{"pdf": "/system/files/2023-07/IF-270709-260110-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25737, "s": 43.9, "err": "ok", "ts": "22:25:13"}
+{"pdf": "/system/files/2023-07/IF-280809-230210-CIAF.pdf", "estado": "ok", "paginas": 12, "tokens": 31163, "s": 302.5, "err": "ok", "ts": "22:30:15"}
+{"pdf": "/system/files/2023-07/IF-280909-230210-CIAF.pdf", "estado": "ok", "paginas": 10, "tokens": 25966, "s": 62.5, "err": "ok", "ts": "22:31:18"}
