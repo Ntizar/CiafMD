@@ -30,3 +30,13 @@
 {"pdf": "/system/files/2023-07/ID-281106-020307.pdf", "estado": "ok", "paginas": 7, "tokens": 17911, "s": 28.3, "err": "ok", "ts": "20:32:52"}
 {"pdf": "/system/files/2023-07/ID-291006-020307.pdf", "estado": "ok", "paginas": 5, "tokens": 13031, "s": 22.2, "err": "ok", "ts": "20:33:14"}
 {"pdf": "/system/files/2023-07/ID-300606-020307.pdf", "estado": "ok", "paginas": 7, "tokens": 18173, "s": 33.7, "err": "ok", "ts": "20:33:48"}
+{"pdf": "/system/files/2023-07/ID-301106-130407.pdf", "estado": "ok", "paginas": 6, "tokens": 15682, "s": 32.4, "err": "ok", "ts": "20:34:20"}
+{"pdf": "/system/files/2023-07/ID-311206-130407.pdf", "estado": "ok", "paginas": 6, "tokens": 15021, "s": 25.8, "err": "ok", "ts": "20:34:46"}
+{"pdf": "/system/files/2023-07/ID_040407_140907.pdf", "estado": "ok", "paginas": 7, "tokens": 17900, "s": 36.8, "err": "ok", "ts": "20:35:23"}
+{"pdf": "/system/files/2023-07/ID_050407_140907.pdf", "estado": "ok", "paginas": 6, "tokens": 15711, "s": 32.9, "err": "ok", "ts": "20:35:56"}
+{"pdf": "/system/files/2023-07/ID_070507_191007.pdf", "estado": "ok", "paginas": 7, "tokens": 18237, "s": 36.2, "err": "ok", "ts": "20:36:32"}
+{"pdf": "/system/files/2023-07/ID_070607_191007.pdf", "estado": "ok", "paginas": 6, "tokens": 15546, "s": 29.4, "err": "ok", "ts": "20:37:02"}
+{"pdf": "/system/files/2023-07/ID_080707_191007_Betanzos%E2%80%93Infesta%20a%20Ferrol%2C.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "20:37:02"}
+{"pdf": "/system/files/2023-07/ID_080707_191007-2_Barcelona-Sagrera_Ma%C3%A7anet-Massanes.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "20:37:02"}
+{"pdf": "/system/files/2023-07/ID_090807_260208.pdf", "estado": "ok", "paginas": 8, "tokens": 20775, "s": 33.6, "err": "ok", "ts": "20:37:36"}
+{"pdf": "/system/files/2023-07/ID_120507_140907.pdf", "estado": "ok", "paginas": 7, "tokens": 17525, "s": 22.7, "err": "ok", "ts": "20:37:58"}
