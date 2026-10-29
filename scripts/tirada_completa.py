@@ -98,11 +98,15 @@ print(len(pdf))
     if r.returncode != 0:
         return '', 0, 0, f'error-raster: {r.stderr[-120:]}'
     n = int(r.stdout.strip().splitlines()[-1])
-    if n > 120:
-        return '', n, 0, 'demasiadas-paginas'
     pags, tokens = [], 0
+    cache = f'{RAIZ}/data/pagecache/{os.path.basename(pdf_path)}'
+    os.makedirs(cache, exist_ok=True)
     for i in range(n):
         png = f'{tmp}/p{i:02d}.png'
+        cachef = f'{cache}/p{i:02d}.md'
+        if os.path.exists(cachef):
+            pags.append(open(cachef).read())
+            continue
         md = None
         for intento in range(4):
             try:
@@ -111,6 +115,7 @@ print(len(pdf))
                     {'type':'text','text':PROMPT},
                     {'type':'image_url','image_url':{'url':f'data:image/png;base64,{b64}'}}]}])
                 pags.append(c.replace('```markdown','').replace('```','').strip())
+                open(cachef, 'w').write(pags[-1])
                 tokens += tok
                 md = True
                 break
