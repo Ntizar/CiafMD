@@ -311,3 +311,13 @@
 {"pdf": "/system/files/2023-07/ES%2011%2007%202014%20150525-140711-IF-CIAF-1.pdf", "estado": "ok", "paginas": 19, "tokens": 48361, "s": 97.0, "err": "ok", "ts": "04:10:15"}
 {"pdf": "/system/files/2023-07/ES%2011.08.2014%20151022-140811-IF-CIAF.pdf", "estado": "ok", "paginas": 23, "tokens": 62449, "s": 118.4, "err": "ok", "ts": "04:12:14"}
 {"pdf": "/system/files/2023-07/ES%2011.10.2014%20160628-141011-IF-CIAF.pdf", "estado": "ok", "paginas": 31, "tokens": 77976, "s": 195.4, "err": "ok", "ts": "04:15:29"}
+{"pdf": "/system/files/2023-07/ES%2015%2004%202014%20-140415-IF-CIAF.pdf", "estado": "ok", "paginas": 21, "tokens": 55476, "s": 164.4, "err": "ok", "ts": "04:18:13"}
+{"pdf": "/system/files/2023-07/ES%2018.11.2014%20151124-141118-IF-CIAF.pdf", "estado": "ok", "paginas": 27, "tokens": 69082, "s": 134.7, "err": "ok", "ts": "04:20:28"}
+{"pdf": "/system/files/2023-07/ES%2023.01.2014%20IF_230114_270115_CIAF.pdf", "estado": "ok", "paginas": 23, "tokens": 60324, "s": 129.0, "err": "ok", "ts": "04:22:37"}
+{"pdf": "/system/files/2023-07/ES%2026.09.2014%20150922-140926-IF-CIAF_SANTA%20MAR%C3%8DA%20DE%20LA%20ALAMEDA.pdf", "estado": "ok", "paginas": 25, "tokens": 65411, "s": 213.2, "err": "ok", "ts": "04:26:10"}
+{"pdf": "/system/files/2023-07/ES%2026.09.2014%20151022-140926-IF-CIAF_BARCELONA%20ESTACI%C3%93%20DE%20FRAN%C3%87A.pdf", "estado": "ok", "paginas": 25, "tokens": 65045, "s": 119.6, "err": "ok", "ts": "04:28:10"}
+{"pdf": "/system/files/2023-07/ES%2031.08.2014%20150803-140831-IF-CIAF.pdf", "estado": "ok", "paginas": 31, "tokens": 81431, "s": 154.4, "err": "ok", "ts": "04:30:44"}
+{"pdf": "/system/files/2023-07/ES%2002.09.2015%20170530-150902-IF-CIAF.pdf", "estado": "ok", "paginas": 29, "tokens": 76531, "s": 157.2, "err": "ok", "ts": "04:33:21"}
+{"pdf": "/system/files/2023-07/ES%2004.03.2015%20160531150304IFCIAF.pdf", "estado": "ok", "paginas": 28, "tokens": 73317, "s": 147.2, "err": "ok", "ts": "04:35:49"}
+{"pdf": "/system/files/2023-07/ES%2005.10.2015%20170627-151005-IF-CIAF.pdf", "estado": "ok", "paginas": 47, "tokens": 126296, "s": 503.1, "err": "ok", "ts": "04:44:12"}
+{"pdf": "/system/files/2023-07/ES%2009.02.2015%20160927150209IFCIAF.pdf", "estado": "ok", "paginas": 26, "tokens": 68063, "s": 123.0, "err": "ok", "ts": "04:46:15"}
