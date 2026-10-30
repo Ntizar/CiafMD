@@ -341,3 +341,13 @@
 {"pdf": "/system/files/2023-07/ES%2018.07.2016%20171017-160718-IF-CIAF.pdf", "estado": "ok", "paginas": 40, "tokens": 105855, "s": 200.4, "err": "ok", "ts": "07:19:00"}
 {"pdf": "/system/files/2023-07/ES%2023.01.2016%20170919-160123-IF-CIAF.pdf", "estado": "ok", "paginas": 49, "tokens": 130839, "s": 257.6, "err": "ok", "ts": "07:23:17"}
 {"pdf": "/system/files/2023-07/ES%2025.01.2016%20170331-160125-IF-CIAF.pdf", "estado": "ok", "paginas": 30, "tokens": 79466, "s": 148.6, "err": "ok", "ts": "07:25:46"}
+{"pdf": "/system/files/2023-07/ES%2028.05.2016%20180223-160528-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 43, "tokens": 111973, "s": 218.1, "err": "ok", "ts": "07:29:24"}
+{"pdf": "/system/files/2023-07/ES%2030.09.2016%20180525-160930-IF-CIAF.pdf", "estado": "ok", "paginas": 41, "tokens": 110573, "s": 206.5, "err": "ok", "ts": "07:32:51"}
+{"pdf": "/system/files/2023-07/ES%2006.01.2017%20180718-170106-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 44, "tokens": 118941, "s": 219.6, "err": "ok", "ts": "07:36:30"}
+{"pdf": "/system/files/2023-07/ES%2013.02.2017%20180424-170213-IF-SN-CIAF%20.pdf", "estado": "ok", "paginas": 34, "tokens": 90321, "s": 203.6, "err": "ok", "ts": "07:39:54"}
+{"pdf": "/system/files/2023-07/ES%2013.07.2017%20191022-170713-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 43, "tokens": 118421, "s": 300.3, "err": "ok", "ts": "07:44:54"}
+{"pdf": "/system/files/2023-07/ES%2015.01.2017%20N181219-170115-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 54, "tokens": 141406, "s": 278.2, "err": "ok", "ts": "07:49:32"}
+{"pdf": "/system/files/2023-07/ES%2021.08.2017%20190726-170821-IF-SN_CIAF%20.pdf", "estado": "ok", "paginas": 41, "tokens": 110248, "s": 267.7, "err": "ok", "ts": "07:54:00"}
+{"pdf": "/system/files/2023-07/ES%2023.05.2017%20181219-170523-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 42, "tokens": 113541, "s": 270.2, "err": "ok", "ts": "07:58:30"}
+{"pdf": "/system/files/2023-07/ES%2025.07.2017%20190426-170725-IF-SN-CIAF_.pdf", "estado": "ok", "paginas": 37, "tokens": 100692, "s": 378.6, "err": "ok", "ts": "08:04:49"}
+{"pdf": "/system/files/2023-07/ZS%2012.05.2017%20190125-170512-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 56, "tokens": 148885, "s": 403.4, "err": "ok", "ts": "08:11:32"}
