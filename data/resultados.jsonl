@@ -291,3 +291,13 @@
 {"pdf": "/system/files/2023-07/IF-250908-200109-CIAF_Granada-%20Fuente%20de%20Piedra.pdf", "estado": "ok", "paginas": 9, "tokens": 22882, "s": 38.8, "err": "ok", "ts": "03:07:27"}
 {"pdf": "/system/files/2023-07/IF-300708-2-281108-CIAF_Fuengirola-M%C3%A1laga.pdf", "estado": "ok", "paginas": 9, "tokens": 22505, "s": 41.7, "err": "ok", "ts": "03:08:08"}
 {"pdf": "/system/files/2023-07/IF-300708-281108-CIAF_Andoa%C3%ADn%2C%20Guip%C3%BAzcoa.pdf", "estado": "ok", "paginas": 10, "tokens": 25569, "s": 40.6, "err": "ok", "ts": "03:08:49"}
+{"pdf": "/system/files/2023-07/IF-200109-2-190509-CIAF_TORDERA%20Y%20BLANES.pdf", "estado": "ok", "paginas": 12, "tokens": 29785, "s": 44.2, "err": "ok", "ts": "03:09:33"}
+{"pdf": "/system/files/2023-07/IF-200109-190509-CIAF-LA%20FLORIDA.pdf", "estado": "ok", "paginas": 12, "tokens": 29981, "s": 43.0, "err": "ok", "ts": "03:10:16"}
+{"pdf": "/system/files/2023-07/IF-240309-140709-CIAF_ALGEMES%C3%8D.pdf", "estado": "ok", "paginas": 12, "tokens": 30268, "s": 54.2, "err": "ok", "ts": "03:11:11"}
+{"pdf": "/system/files/2023-07/IF-240309-290909-CIAF_VILLARGORDO%20Y%20GRA%C3%91ENA.pdf", "estado": "ok", "paginas": 10, "tokens": 26081, "s": 45.7, "err": "ok", "ts": "03:11:56"}
+{"pdf": "/system/files/2023-07/IF-190112-271112-CIAF-El%20Clot-Arag%C3%B3.pdf", "estado": "ok", "paginas": 16, "tokens": 44015, "s": 87.7, "err": "ok", "ts": "03:13:24"}
+{"pdf": "/system/files/2023-07/ES%2005.09.2013%20IF_050913_270115_CIAF.pdf", "estado": "ok", "paginas": 20, "tokens": 53663, "s": 100.0, "err": "ok", "ts": "03:15:04"}
+{"pdf": "/system/files/2023-07/ES%2007%2004%202013%20IF-070413-240315-CIAF.pdf", "estado": "ok", "paginas": 28, "tokens": 73349, "s": 134.4, "err": "ok", "ts": "03:17:18"}
+{"pdf": "/system/files/2023-07/ES%2012.08.2013%20IF_120813_100215_CIAF.pdf", "estado": "ok", "paginas": 16, "tokens": 40543, "s": 74.2, "err": "ok", "ts": "03:18:33"}
+{"pdf": "/system/files/2023-07/ES%20IF_060613_281014_CIAF.pdf", "estado": "ok", "paginas": 22, "tokens": 56687, "s": 106.4, "err": "ok", "ts": "03:20:19"}
+{"pdf": "/system/files/2023-07/ES%20IF_260913_281014_CIAF.pdf", "estado": "ok", "paginas": 21, "tokens": 55422, "s": 124.1, "err": "ok", "ts": "03:22:23"}
