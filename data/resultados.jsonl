@@ -300,3 +300,13 @@
 {"pdf": "/system/files/2023-07/ES%2011.10.2014%20160628-141011-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:52:06"}
 {"pdf": "/system/files/2023-07/ES%2015%2004%202014%20-140415-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:52:06"}
 {"pdf": "/system/files/2023-07/ES%2018.11.2014%20151124-141118-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:52:07"}
+{"pdf": "/system/files/2023-07/ES%2023.01.2014%20IF_230114_270115_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:52:07"}
+{"pdf": "/system/files/2023-07/ES%2026.09.2014%20150922-140926-IF-CIAF_SANTA%20MAR%C3%8DA%20DE%20LA%20ALAMEDA.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:52:07"}
+{"pdf": "/system/files/2023-07/ES%2026.09.2014%20151022-140926-IF-CIAF_BARCELONA%20ESTACI%C3%93%20DE%20FRAN%C3%87A.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:52:07"}
+{"pdf": "/system/files/2023-07/ES%2031.08.2014%20150803-140831-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:52:07"}
+{"pdf": "/system/files/2023-07/IF_110713_251114_CIAF_0.pdf", "estado": "ok", "paginas": 19, "tokens": 51189, "s": 105.1, "err": "ok", "ts": "01:53:53"}
+{"pdf": "/system/files/2023-07/IF_140813_251114_CIAF_0.pdf", "estado": "ok", "paginas": 21, "tokens": 56300, "s": 117.0, "err": "ok", "ts": "01:55:50"}
+{"pdf": "/system/files/2023-07/IF_230114_270115_CIAF.pdf", "estado": "ok", "paginas": 23, "tokens": 60237, "s": 146.4, "err": "ok", "ts": "01:58:16"}
+{"pdf": "/system/files/2023-07/ES%2002.09.2015%20170530-150902-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "01:58:16"}
+{"pdf": "/system/files/2023-07/ES%2004.03.2015%20160531150304IFCIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:58:16"}
+{"pdf": "/system/files/2023-07/ES%2005.10.2015%20170627-151005-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:58:17"}
