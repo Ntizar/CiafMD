@@ -340,3 +340,13 @@
 {"pdf": "/system/files/2023-07/ES%2006.01.2017%20180718-170106-IF-SN_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.5, "err": "", "ts": "02:22:42"}
 {"pdf": "/system/files/2023-07/ES%2013.02.2017%20180424-170213-IF-SN-CIAF%20.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "02:22:42"}
 {"pdf": "/system/files/2023-07/ES%2013.07.2017%20191022-170713-IF-SN_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "02:22:43"}
+{"pdf": "/system/files/2023-07/ES%2015.01.2017%20N181219-170115-IF-SN_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "02:22:43"}
+{"pdf": "/system/files/2023-07/ES%2021.08.2017%20190726-170821-IF-SN_CIAF%20.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "02:22:43"}
+{"pdf": "/system/files/2023-07/ES%2023.05.2017%20181219-170523-IF-SN_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "02:22:43"}
+{"pdf": "/system/files/2023-07/ES%2025.07.2017%20190426-170725-IF-SN-CIAF_.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "02:22:44"}
+{"pdf": "/system/files/2023-07/ZS%2012.05.2017%20190125-170512-IF-SN_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "02:22:44"}
+{"pdf": "/system/files/2023-07/200421-010718-IF-SN_CIAF_.pdf", "estado": "ok", "paginas": 62, "tokens": 172420, "s": 660.6, "err": "ok", "ts": "02:33:44"}
+{"pdf": "/system/files/2023-07/200723-201118-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 97, "tokens": 262881, "s": 624.1, "err": "ok", "ts": "02:44:08"}
+{"pdf": "/system/files/2023-07/201117-091219-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 32, "tokens": 86299, "s": 177.0, "err": "ok", "ts": "02:47:05"}
+{"pdf": "/system/files/2023-07/ES-5925%20-%20210624-190208-if-sn_ciaf.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.5, "err": "", "ts": "02:47:06"}
+{"pdf": "/system/files/2023-07/ES-6255-210121-200419-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 32, "tokens": 86688, "s": 160.7, "err": "ok", "ts": "02:49:47"}
