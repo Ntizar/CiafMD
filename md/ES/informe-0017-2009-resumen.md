@@ -1,0 +1,24 @@
+---
+pdf: RS-240309-140709-CIAF.pdf
+url: https://www.era.europa.eu/system/files/2023-07/RS-240309-140709-CIAF.pdf
+paginas: 2
+fecha: 2026-10-29 22:36
+---
+
+<!-- p1 -->
+
+# Investigación del accidente nº 0017/2009 ocurrido el 24.03.2009
+
+## Resolución
+
+### RESOLUCIÓN SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0017/2009 OCURRIDO EL DÍA 24.03.2009 EN LA ESTACIÓN DE ALGEMESÍ
+
+<!-- p2 -->
+
+En el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 14 de julio de 2009, analizado el expediente nº 0017/2009 del accidente acaecido el 24.03.2009, en la estación de Algemesí, de la línea 300 Madrid Chamartín – Valencia Estació del Nord, se aprueba como definitivo el informe particular presentado por el técnico investigador con la siguiente recomendación:
+
+| Destinatario | Número | Recomendación |
+| :--- | :--- | :--- |
+| | | No se establecen recomendaciones, dado que el 22 de mayo de 2009 se ha procedido a la apertura de un paso inferior que clausura este paso a nivel. |
+
+Madrid, 14 de julio de 2009

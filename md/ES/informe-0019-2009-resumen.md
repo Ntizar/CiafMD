@@ -1,0 +1,33 @@
+---
+pdf: RS-070409-271009-CIAF.pdf
+url: https://www.era.europa.eu/system/files/2023-07/RS-070409-271009-CIAF.pdf
+paginas: 2
+fecha: 2026-10-29 22:35
+---
+
+<!-- p1 -->
+
+# Resolución
+
+## Investigación del accidente nº 0019/2009 ocurrido el 07.04.2009
+
+---
+
+RESOLUCIÓN SOBRE LA INVESTIGACIÓN  
+DEL ACCIDENTE FERROVIARIO Nº 0019/2009  
+OCURRIDO EL DÍA 07.04.2009  
+EN LA ESTACIÓN DE LAS NAVAS DEL MARQUÉS (ÁVILA)
+
+<!-- p2 -->
+
+# Investigación del accidente nº 0019/2009 ocurrido el 07.04.2009
+
+## Resolución
+
+En el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 27 de octubre de 2009, analizado el expediente nº 0019/2009 del accidente acaecido el 07.04.2009, en el paso entre andenes de la estación de Las Navas del Marqués (Ávila), situada en el P.K. 83,700 de la línea 100 Madrid - Hendaya, se aprueba como definitivo el informe particular presentado por el técnico investigador de la Secretaría de la Comisión D. Jorge Navacerrada Álvarez con la siguiente **recomendación**:
+
+| Destinatario | Número | Recomendación |
+| :--- | :--- | :--- |
+| | | No se establecen recomendaciones. |
+
+Madrid, 27 de octubre de 2009
