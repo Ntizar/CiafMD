@@ -330,3 +330,13 @@
 {"pdf": "/system/files/2023-07/ES%2017.04.2016%20171017-160417-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:58:20"}
 {"pdf": "/system/files/2023-07/ES%2018.07.2016%20171017-160718-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:58:21"}
 {"pdf": "/system/files/2023-07/ES%2023.01.2016%20170919-160123-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:58:21"}
+{"pdf": "/system/files/2023-07/ES%2025.01.2016%20170331-160125-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:58:21"}
+{"pdf": "/system/files/2023-07/ES%2028.05.2016%20180223-160528-IF-SN_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:58:21"}
+{"pdf": "/system/files/2023-07/ES%2030.09.2016%20180525-160930-IF-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:58:21"}
+{"pdf": "/system/files/2023-07/190628-120817-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 74, "tokens": 193994, "s": 468.7, "err": "ok", "ts": "02:06:10"}
+{"pdf": "/system/files/2023-07/191217-230317-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 48, "tokens": 126719, "s": 287.9, "err": "ok", "ts": "02:10:58"}
+{"pdf": "/system/files/2023-07/191217-280717-if-sn_ciaf.pdf", "estado": "ok", "paginas": 71, "tokens": 186322, "s": 406.8, "err": "ok", "ts": "02:17:45"}
+{"pdf": "/system/files/2023-07/200124-291117-IF-SN_CIAF.pdf", "estado": "ok", "paginas": 54, "tokens": 143477, "s": 296.9, "err": "ok", "ts": "02:22:42"}
+{"pdf": "/system/files/2023-07/ES%2006.01.2017%20180718-170106-IF-SN_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.5, "err": "", "ts": "02:22:42"}
+{"pdf": "/system/files/2023-07/ES%2013.02.2017%20180424-170213-IF-SN-CIAF%20.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "02:22:42"}
+{"pdf": "/system/files/2023-07/ES%2013.07.2017%20191022-170713-IF-SN_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "02:22:43"}
