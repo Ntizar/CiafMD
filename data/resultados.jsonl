@@ -301,3 +301,13 @@
 {"pdf": "/system/files/2023-07/ES%2012.08.2013%20IF_120813_100215_CIAF.pdf", "estado": "ok", "paginas": 16, "tokens": 40543, "s": 74.2, "err": "ok", "ts": "03:18:33"}
 {"pdf": "/system/files/2023-07/ES%20IF_060613_281014_CIAF.pdf", "estado": "ok", "paginas": 22, "tokens": 56687, "s": 106.4, "err": "ok", "ts": "03:20:19"}
 {"pdf": "/system/files/2023-07/ES%20IF_260913_281014_CIAF.pdf", "estado": "ok", "paginas": 21, "tokens": 55422, "s": 124.1, "err": "ok", "ts": "03:22:23"}
+{"pdf": "/system/files/2023-07/IF_240713_200514_CIAF.pdf", "estado": "ok", "paginas": 266, "tokens": 734360, "s": 1825.7, "err": "ok", "ts": "03:52:49"}
+{"pdf": "/system/files/2023-07/ES%2002.07.204%20150324-140702-IF-CIAF.pdf", "estado": "ok", "paginas": 29, "tokens": 76619, "s": 168.0, "err": "ok", "ts": "03:55:37"}
+{"pdf": "/system/files/2023-07/ES%2002.09.2014%20-140902-IF-CIAF.pdf", "estado": "ok", "paginas": 19, "tokens": 49757, "s": 109.6, "err": "ok", "ts": "03:57:26"}
+{"pdf": "/system/files/2023-07/ES%2006.08.2014%20150922-140806-IF-CIAF.pdf", "estado": "ok", "paginas": 25, "tokens": 63696, "s": 361.7, "err": "ok", "ts": "04:03:28"}
+{"pdf": "/system/files/2023-07/ES%2009.11.2014%20151124-141109-IF-CIAF.pdf", "estado": "ok", "paginas": 21, "tokens": 54371, "s": 88.7, "err": "ok", "ts": "04:04:57"}
+{"pdf": "/system/files/2023-07/ES%2010%2007%202014%20150428-140710-IF-CIAF.pdf", "estado": "ok", "paginas": 23, "tokens": 59826, "s": 119.9, "err": "ok", "ts": "04:06:57"}
+{"pdf": "/system/files/2023-07/ES%2011%2007%202014%20150525-140711-IF-CIAF.pdf", "estado": "ok", "paginas": 19, "tokens": 48295, "s": 101.3, "err": "ok", "ts": "04:08:38"}
+{"pdf": "/system/files/2023-07/ES%2011%2007%202014%20150525-140711-IF-CIAF-1.pdf", "estado": "ok", "paginas": 19, "tokens": 48361, "s": 97.0, "err": "ok", "ts": "04:10:15"}
+{"pdf": "/system/files/2023-07/ES%2011.08.2014%20151022-140811-IF-CIAF.pdf", "estado": "ok", "paginas": 23, "tokens": 62449, "s": 118.4, "err": "ok", "ts": "04:12:14"}
+{"pdf": "/system/files/2023-07/ES%2011.10.2014%20160628-141011-IF-CIAF.pdf", "estado": "ok", "paginas": 31, "tokens": 77976, "s": 195.4, "err": "ok", "ts": "04:15:29"}
