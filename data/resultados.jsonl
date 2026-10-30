@@ -260,3 +260,13 @@
 {"pdf": "/system/files/2023-07/IF_260712__300713_CIAF.pdf", "estado": "ok", "paginas": 16, "tokens": 42737, "s": 81.7, "err": "ok", "ts": "00:54:14"}
 {"pdf": "/system/files/2023-07/IF_291012_290113_CIAF.pdf", "estado": "ok", "paginas": 14, "tokens": 35465, "s": 64.7, "err": "ok", "ts": "00:55:19"}
 {"pdf": "/system/files/2023-07/IF-090212-271112-CIAF.pdf", "estado": "ok", "paginas": 15, "tokens": 39760, "s": 79.3, "err": "ok", "ts": "00:56:38"}
+{"pdf": "/system/files/2023-07/IF-120112-250912-CIAF.pdf", "estado": "ok", "paginas": 15, "tokens": 38606, "s": 72.4, "err": "ok", "ts": "00:57:50"}
+{"pdf": "/system/files/2023-07/IF-150112-221012-CIAF.pdf", "estado": "ok", "paginas": 15, "tokens": 38374, "s": 59.0, "err": "ok", "ts": "00:58:49"}
+{"pdf": "/system/files/2023-07/IF-190112-271112-CIAF_ASTURIAS.pdf", "estado": "ok", "paginas": 16, "tokens": 41286, "s": 79.9, "err": "ok", "ts": "01:00:09"}
+{"pdf": "/system/files/2023-07/IF-190112-271112-CIAF-El%20Clot-Arag%C3%B3.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.4, "err": "", "ts": "01:00:10"}
+{"pdf": "/system/files/2023-07/ES%2005.09.2013%20IF_050913_270115_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.3, "err": "", "ts": "01:00:10"}
+{"pdf": "/system/files/2023-07/ES%2007%2004%202013%20IF-070413-240315-CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:00:10"}
+{"pdf": "/system/files/2023-07/ES%2012.08.2013%20IF_120813_100215_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:00:10"}
+{"pdf": "/system/files/2023-07/ES%20IF_060613_281014_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:00:11"}
+{"pdf": "/system/files/2023-07/ES%20IF_260913_281014_CIAF.pdf", "estado": "sin-pdf", "paginas": 0, "tokens": 0, "s": 0.2, "err": "", "ts": "01:00:11"}
+{"pdf": "/system/files/2023-07/IF_040613_230914_CIAF.pdf", "estado": "ok", "paginas": 20, "tokens": 53551, "s": 105.3, "err": "ok", "ts": "01:01:56"}
