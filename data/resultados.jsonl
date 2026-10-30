@@ -281,3 +281,13 @@
 {"pdf": "/system/files/2023-07/ID-241207-230508-CIAF%5B1%5D.pdf", "estado": "ok", "paginas": 9, "tokens": 22501, "s": 36.9, "err": "ok", "ts": "03:01:11"}
 {"pdf": "/system/files/2023-07/ID-270207-200607-DGF_14_Sant%20Vicen%C3%A7%20de%20Calders.pdf", "estado": "ok", "paginas": 7, "tokens": 17842, "s": 29.9, "err": "ok", "ts": "03:01:41"}
 {"pdf": "/system/files/2023-07/ID-270207-200607-DGF_El%20Carri%C3%B3n.pdf", "estado": "ok", "paginas": 6, "tokens": 15644, "s": 27.2, "err": "ok", "ts": "03:02:08"}
+{"pdf": "/system/files/2023-07/ID-291207-290408-CIAF%5B1%5D.pdf", "estado": "ok", "paginas": 9, "tokens": 22802, "s": 34.4, "err": "ok", "ts": "03:02:43"}
+{"pdf": "/system/files/2023-07/IF-030608-2-300908-CIAF_y%20Lora%20del%20R%C3%ADo.pdf", "estado": "ok", "paginas": 10, "tokens": 25696, "s": 44.3, "err": "ok", "ts": "03:03:27"}
+{"pdf": "/system/files/2023-07/IF-221108-2-240209-CIAF-%20Alcal%C3%A1%20de%20Henares.pdf", "estado": "ok", "paginas": 10, "tokens": 25323, "s": 39.6, "err": "ok", "ts": "03:04:07"}
+{"pdf": "/system/files/2023-07/IF-221108-240209-CIAF_Salamanca%20%E2%80%93%20%C3%81vila.pdf", "estado": "ok", "paginas": 9, "tokens": 22704, "s": 39.5, "err": "ok", "ts": "03:04:46"}
+{"pdf": "/system/files/2023-07/IF-240508-2-300908-CIAF_Majarabique%20Estaci%C3%B3n-Huelva%20T%C3%A9rmino.pdf", "estado": "ok", "paginas": 9, "tokens": 22867, "s": 34.9, "err": "ok", "ts": "03:05:21"}
+{"pdf": "/system/files/2023-07/IF-240508-300908-CIAF_La%20Encina-Alicante.pdf", "estado": "ok", "paginas": 9, "tokens": 22779, "s": 34.1, "err": "ok", "ts": "03:05:55"}
+{"pdf": "/system/files/2023-07/IF-250908-190509-CIAF_Balmaseda%20Mercanc%C3%ADas.pdf", "estado": "ok", "paginas": 14, "tokens": 35078, "s": 52.7, "err": "ok", "ts": "03:06:48"}
+{"pdf": "/system/files/2023-07/IF-250908-200109-CIAF_Granada-%20Fuente%20de%20Piedra.pdf", "estado": "ok", "paginas": 9, "tokens": 22882, "s": 38.8, "err": "ok", "ts": "03:07:27"}
+{"pdf": "/system/files/2023-07/IF-300708-2-281108-CIAF_Fuengirola-M%C3%A1laga.pdf", "estado": "ok", "paginas": 9, "tokens": 22505, "s": 41.7, "err": "ok", "ts": "03:08:08"}
+{"pdf": "/system/files/2023-07/IF-300708-281108-CIAF_Andoa%C3%ADn%2C%20Guip%C3%BAzcoa.pdf", "estado": "ok", "paginas": 10, "tokens": 25569, "s": 40.6, "err": "ok", "ts": "03:08:49"}
