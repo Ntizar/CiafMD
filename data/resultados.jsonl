@@ -371,3 +371,4 @@
 {"pdf": "/system/files/2024-07/ES-10479%20-%20Interim%20Staatement%20-NotaAvanceInvestigaci%C3%B3nWeb_CIAF_Les%20Borges%20del%20Camp.pdf", "estado": "ok", "paginas": 2, "tokens": 5252, "s": 9.5, "err": "ok", "ts": "09:54:09"}
 {"pdf": "/sites/default/files/2026-06/es-10699%20-%20final%20report%2C%202024-111-1029-if_1.pdf", "estado": "ok", "paginas": 37, "tokens": 95476, "s": 184.3, "err": "ok", "ts": "09:57:14"}
 {"pdf": "/sites/default/files/2026-05/es-10728%20-%20final%20report%2C%202025-41-0522-if.pdf", "estado": "ok", "paginas": 34, "tokens": 88442, "s": 159.9, "err": "ok", "ts": "09:59:53"}
+{"pdf": "/sites/default/files/2026-07/es-10687%20-%20final%20report%2C%202025-17-0207-if.pdf", "estado": "ok", "paginas": 31, "tokens": 82052, "s": 162.7, "err": "ok", "ts": "10:02:36"}
